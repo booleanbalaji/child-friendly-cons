@@ -31,9 +31,9 @@ Have an addition? Please create a pull request and answer the following question
 |              |                  |
 |--------------| -----------------|
 | Childcare?      | yes    |
-| Cost?     | unknown |
-| Children Welcome in Talks? | unknown |
-| Food Options?   | unknown |
+| Cost?     | free for attendees |
+| Children Welcome in Talks? | yes |
+| Food Options?   | yes |
 | Details? | Location: Bangalore, India |
 
 # [The Fifth Elephant](https:/fifthelephant.in/)
@@ -42,7 +42,7 @@ Have an addition? Please create a pull request and answer the following question
 | Childcare?      | yes    |
 | Cost?     | free for attendees |
 | Children Welcome in Talks? | yes |
-| Food Options?   | unknown |
+| Food Options?   | yes |
 | Details? | Location: Bangalore, India |
 
 # [Anthill Inside](https://anthillinside.in/)
@@ -51,7 +51,7 @@ Have an addition? Please create a pull request and answer the following question
 | Childcare?      | yes    |
 | Cost?     | free for attendees |
 | Children Welcome in Talks? | yes |
-| Food Options?   | unknown |
+| Food Options?   | yes |
 | Details? | Location: Bangalore, India |
 
 # [ReactFoo] (https://reactfoo.in/)
@@ -60,8 +60,8 @@ Have an addition? Please create a pull request and answer the following question
 | Childcare?      | yes    |
 | Cost?     | free for attendees |
 | Children Welcome in Talks? | yes |
-| Food Options?   | unknown |
-| Details? |  |
+| Food Options?   | yes |
+| Details? | Location: Bangalore, India |
 
 # [JSFoo] (https://jsfoo.in/)
 |              |                  |
@@ -69,5 +69,5 @@ Have an addition? Please create a pull request and answer the following question
 | Childcare?      | yes    |
 | Cost?     | free for attendees |
 | Children Welcome in Talks? | yes |
-| Food Options?   | unknown |
-| Details? |  |
+| Food Options?   | yes |
+| Details? | Location: Bangalore, India |
